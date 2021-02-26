@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe81c504-da3f-4dd6-872a-03848afae0ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="141c895b-8bd2-4158-a888-dff2e1759caf" />
+  <component name="ProjectId" id="1onbyUEmVHAXGXQ17u7KGXtpURK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rsamm\root\AI-Msc\Semester-2\Music Informatics\Coursework\Beat-Tracking\src\data\raw" />
+      <recent name="C:\Users\rsamm\root\AI-Msc\Semester-2\Music Informatics\Coursework\Beat-Tracking\src\data\mel" />
+      <recent name="C:\Users\rsamm\root\AI-Msc\Semester-2\Music Informatics\Coursework\Beat-Tracking\src" />
+      <recent name="C:\Users\rsamm\root\AI-Msc\Semester-2\Music Informatics\Coursework\Beat-Tracking\src\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rsamm\root\AI-Msc\Semester-2\Music Informatics\Coursework\Beat-Tracking\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lstm_approach">
+    <configuration name="lstm_approach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lstm_approach.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocessing_cqt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing_cqt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocessing_mel (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing_mel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocessing_mel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\rsamm\root\AI-Msc\Semester-2\Music Informatics\Coursework\Beat-Tracking\src\preprocessing_mel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lstm_approach" />
+        <item itemvalue="Python.preprocessing_cqt" />
+        <item itemvalue="Python.preprocessing_mel (1)" />
+        <item itemvalue="Python.preprocessing_mel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe81c504-da3f-4dd6-872a-03848afae0ce" name="Default Changelist" comment="" />
+      <created>1613925555350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613925555350</updated>
+      <workItem from="1613925559168" duration="985000" />
+      <workItem from="1613984566424" duration="10743000" />
+      <workItem from="1614001433734" duration="4756000" />
+      <workItem from="1614007009207" duration="8770000" />
+      <workItem from="1614022061447" duration="2958000" />
+      <workItem from="1614161219947" duration="609000" />
+      <workItem from="1614204074025" duration="633000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated README">
+      <created>1613925819362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613925819362</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Loading data">
+      <created>1613991325773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613991325773</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refactoring">
+      <created>1613991385790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613991385790</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Preprocessing as melspectrograms">
+      <created>1613993579604</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613993579604</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Preprocessing as melspectrograms">
+      <created>1613994355405</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613994355405</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Hann fix">
+      <created>1613994687263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613994687263</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Saving raw for easy ODF usage">
+      <created>1614002982860</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614002982860</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initialised git ignroe">
+      <created>1614003512474</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614003512474</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Split into three, added CQT">
+      <created>1614010846437</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614010846437</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Training preprocessing">
+      <created>1614023949987</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614023949987</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Started LSTM model and training">
+      <created>1614024947440</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614024947440</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Updated README" />
+    <MESSAGE value="Loading and preprocessing data" />
+    <MESSAGE value="Loading data" />
+    <MESSAGE value="Refactoring" />
+    <MESSAGE value="Preprocessing as melspectrograms" />
+    <MESSAGE value="Hann fix" />
+    <MESSAGE value="Saving raw for easy ODF usage" />
+    <MESSAGE value="Initialised git ignroe" />
+    <MESSAGE value="Split into three, added CQT" />
+    <MESSAGE value="Training preprocessing" />
+    <MESSAGE value="Started LSTM model and training" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started LSTM model and training" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1764" y="88" key="#xdebugger.XInspectDialog" timestamp="1614023096439">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state x="-1764" y="88" key="#xdebugger.XInspectDialog/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614023096439" />
+    <state x="-1371" y="172" key="FileChooserDialogImpl" timestamp="1614008213169">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state x="-1371" y="172" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614008213169" />
+    <state width="1493" height="61" key="GridCell.Tab.0.bottom" timestamp="1614025025790">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="61" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614025025790" />
+    <state width="1493" height="131" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1614018154151" />
+    <state width="1493" height="61" key="GridCell.Tab.0.center" timestamp="1614025025790">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="61" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614025025790" />
+    <state width="1493" height="131" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1614018154151" />
+    <state width="1493" height="61" key="GridCell.Tab.0.left" timestamp="1614025025790">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="61" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614025025790" />
+    <state width="1493" height="131" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1614018154150" />
+    <state width="1493" height="61" key="GridCell.Tab.0.right" timestamp="1614025025790">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="61" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614025025790" />
+    <state width="1493" height="131" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1614018154151" />
+    <state width="1493" height="61" key="GridCell.Tab.1.bottom" timestamp="1614025025791">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="61" key="GridCell.Tab.1.bottom/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614025025791" />
+    <state width="1493" height="84" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1613995433515" />
+    <state width="1493" height="61" key="GridCell.Tab.1.center" timestamp="1614025025791">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="61" key="GridCell.Tab.1.center/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614025025791" />
+    <state width="1493" height="84" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1613995433515" />
+    <state width="1493" height="61" key="GridCell.Tab.1.left" timestamp="1614025025791">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="61" key="GridCell.Tab.1.left/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614025025791" />
+    <state width="1493" height="84" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1613995433515" />
+    <state width="1493" height="61" key="GridCell.Tab.1.right" timestamp="1614025025791">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="61" key="GridCell.Tab.1.right/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614025025791" />
+    <state width="1493" height="84" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1613995433515" />
+    <state x="-1480" y="36" key="RollbackChangesDialog" timestamp="1614005330185">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state x="-1480" y="36" key="RollbackChangesDialog/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614005330185" />
+    <state x="440" y="36" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1613995408016" />
+    <state x="-1559" y="131" key="Vcs.Push.Dialog.v2" timestamp="1614024950841">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state x="-1559" y="131" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614024950841" />
+    <state x="361" y="131" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1614003513983" />
+    <state width="775" height="424" key="XDebugger.FullValuePopup" timestamp="1614022986276">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="775" height="424" key="XDebugger.FullValuePopup/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1614022986276" />
+    <state width="775" height="424" key="XDebugger.FullValuePopup/0.0.1536.834@0.0.1536.834" timestamp="1613986187897" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/src$preprocessing_mel.coverage" NAME="preprocessing_mel Coverage Results" MODIFIED="1614010496065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$preprocessing_mel__1_.coverage" NAME="preprocessing_mel (1) Coverage Results" MODIFIED="1614013518058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$main.coverage" NAME="preprocessing Coverage Results" MODIFIED="1613995417502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$preprocessing_cqt.coverage" NAME="preprocessing_cqt Coverage Results" MODIFIED="1614022652880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$lstm_approach.coverage" NAME="lstm_approach Coverage Results" MODIFIED="1614023800739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$preprocessing.coverage" NAME="preprocessing Coverage Results" MODIFIED="1614003580923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
