@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe81c504-da3f-4dd6-872a-03848afae0ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/main-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/main-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +184,7 @@
       <workItem from="1614022061447" duration="2958000" />
       <workItem from="1614161219947" duration="609000" />
       <workItem from="1614204074025" duration="633000" />
-      <workItem from="1614435324562" duration="1200000" />
+      <workItem from="1614435324562" duration="1801000" />
     </task>
     <task id="LOCAL-00001" summary="Updated README">
       <created>1613925819362</created>
