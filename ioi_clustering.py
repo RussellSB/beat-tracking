@@ -1,8 +1,3 @@
-from matplotlib import pyplot as plt
-from sklearn.cluster import KMeans
-from collections import Counter
-import numpy as np
-
 def ioi_clustering(onsets, n_clusters=5, limit_tempo=None, plot=False):
     
     # Compute all possible inter onset intervals
@@ -14,7 +9,7 @@ def ioi_clustering(onsets, n_clusters=5, limit_tempo=None, plot=False):
             # Limits possible iois by tempo if range is specified
             if limit_tempo:
                 tempo = 60/ioi_instance
-                if tempo >= limit_tempo[0] and limit_tempo[1] <= 280:
+                if tempo >= limit_tempo[0] and tempo <= limit_tempo[1]:
                     ioi.append(ioi_instance)
             else:
                 ioi.append(ioi_instance)
@@ -45,3 +40,6 @@ def ioi_clustering(onsets, n_clusters=5, limit_tempo=None, plot=False):
         ioi_common.append(dict_counter.most_common()[0][0])
         
     return ioi_common
+    
+ioi_common = ioi_clustering(onsets, n_clusters= 5, limit_tempo=(20, 220), plot=True)  # have the option to limit tempo
+ioi_common
