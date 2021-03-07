@@ -30,7 +30,7 @@ if __name__ == '__main__':
     audiopath = '../ballroom-data/Jive/Media-103713.wav'
     threshold_onsets = 0.1
     n_clusters = 5
-    limit_tempo = (20, 220)
+    limit_tempo = 20
     n_last_beats = 10
     bidirectional = True
 
